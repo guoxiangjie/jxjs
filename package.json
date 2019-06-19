@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "muse-ui":"3.0.2",
+    "moment":"2.24.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
